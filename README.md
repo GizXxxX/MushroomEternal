@@ -1,4 +1,4 @@
-# SimpleSnipes
+# MushroomEternal
 
 <p align="center">
   <a href="https://github.com/gizxxxx/MushroomEternal/releases/latest" target="_blank">
